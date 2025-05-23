@@ -25,7 +25,7 @@
  * 
  * Uso:
  * - Compilación: make ompLab_Arevalo
- * - Ejecución: ./omLab_Arevalo NumHilos
+ * - Ejecución: ./ompLab_Arevalo NumHilos
  * 
  * Dependencias:
  * - OpenMP (omp.h)
